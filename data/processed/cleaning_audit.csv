@@ -1,0 +1,4 @@
+"year","raw_rows","duplicates_removed","recorded_dates","calendar_days","absent_dates","negative_measurements","co_days","pm25_days","o3_days"
+2018,479,2,361,365,4,1,357,348,352
+2019,494,7,365,365,0,0,361,356,362
+2020,179,3,121,121,0,0,121,119,121
